@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_7c43f260ac41cdfd0be6235ec80ad6cdba3c5e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61e53a3ff4903ca75ac4631fac6cbcafebe5e51f">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d6b8c56fd2b11370396cb93431b968b1fac88807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_12f74e817616f0e387400c5e8b058e6362131e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ca57a639b3ad2b7cca92e666854966501d930be">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5d6b708688c836b8cdc2aac68d277fe8196f26db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_96775460042757d17523a90375232df49c695a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_05c7a41665a9aba446991791abdcf504696dc809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_1742cc0e27ca57ec73300c2ca4fc8bde96ebd863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_d1a1d52eb777878c278c00c34deb211e595f384d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_993baa3f494282d098270711f07c6207b6c85194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_731b9fe6b56a36ac24a5a9719d65010ec7a368e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_3d048153f702768f0476165284adb076725eb3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Student\Desktop\PhotoGalery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_7cb1ba53e915d9f514574c75bffc708d57a0ab8e\classes.dex" />
+    </item>
+
+</items>
